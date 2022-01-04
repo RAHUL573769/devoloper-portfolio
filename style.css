@@ -41,3 +41,14 @@ background-repeat: no-repeat;
   background-image: url(dream-bg.png);
   background-position: right;
 }
+.experience-area{
+  background-image: url(exp-bg.png);
+  background-repeat: no-repeat;
+}
+.experience-item{
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+}
