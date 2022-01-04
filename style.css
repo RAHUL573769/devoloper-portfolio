@@ -35,4 +35,5 @@ background-repeat: no-repeat;
 .dream-big{
   background-repeat: no-repeat;
   background-image: url(dream-bg.png);
+  background-position: right;
 }
