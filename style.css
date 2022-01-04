@@ -52,3 +52,13 @@ background-repeat: no-repeat;
     margin-right: 5%;
     padding-left: 10px;
 }
+#full-stack{
+  border-left: 7px solid;
+  border-image:  linear-gradient(orange,#ff6347);
+  border-image-slice: 1;
+}
+#baby{
+  border-left: 7px solid;
+  border-image:  linear-gradient(blue,cyan);
+  border-image-slice: 1;
+}
